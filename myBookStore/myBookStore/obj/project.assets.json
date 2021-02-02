@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coredotnet\\BookStore\\myBookStore\\myBookStore\\myBookStore.csproj",
+      "projectUniqueName": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
       "projectName": "myBookStore",
-      "projectPath": "D:\\coredotnet\\BookStore\\myBookStore\\myBookStore\\myBookStore.csproj",
+      "projectPath": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
       "packagesPath": "C:\\Users\\Dipankar\\.nuget\\packages\\",
-      "outputPath": "D:\\coredotnet\\BookStore\\myBookStore\\myBookStore\\obj\\",
+      "outputPath": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
