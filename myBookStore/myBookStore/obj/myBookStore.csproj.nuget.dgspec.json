@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj": {}
+    "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj": {
+    "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
+        "projectUniqueName": "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
         "projectName": "myBookStore",
-        "projectPath": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
+        "projectPath": "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
         "packagesPath": "C:\\Users\\Dipankar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\obj\\",
+        "outputPath": "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

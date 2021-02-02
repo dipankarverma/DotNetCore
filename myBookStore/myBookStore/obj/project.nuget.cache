@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeaoxOFw6d+g4w70nVgfHpeufp/C9/bnEhwTWOzP6y7lS3yWNf73VqHTe9J/rKSeKFk9AaPm9CR0v7rafQZ1bw==",
+  "dgSpecHash": "V3TgAtOpYfreZWVrCfc17bJ87IQ4p+iNlk163VEO1IrE4QX7pRaS8DsA/BeSnZ6QBjQv6X9aJiH9uTuIURafkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dipankar\\Source\\Repos\\dipankarverma\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
+  "projectFilePath": "D:\\coredotnet\\BookStore\\DotNetCore\\myBookStore\\myBookStore\\myBookStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
